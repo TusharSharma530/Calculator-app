@@ -1,2 +1,2 @@
-# Calculator-app
-calculator app using java
+# Calculator
+calculator app using html ,css ,javascript
